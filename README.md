@@ -1,4 +1,4 @@
-Demo :- https://react-crypto-app-lyart.vercel.app/
+Demo :- <a href='https://react-crypto-app-lyart.vercel.app/' target='_blank'> 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
